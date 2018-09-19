@@ -3,7 +3,7 @@
 Example of a Caoursel Control using Microsofts Template 10
 </p>
 
-The orginal code for this sample can be found on Jerry Nixon's blog. http://blog.jerrynixon.com/2014/04/lets-code-build-your-own-flipview-page.html The example has been update to use x:bind from windows 10 and use the Delegate command found in Template 10. The code can probably be encapsulated into a control. But because of time etc I have left that up to the next user of this control. 
+The orginal code for this sample can be found on Jerry Nixon's blog. http://blog.jerrynixon.com/2014/04/lets-code-build-your-own-flipview-page.html The example has been update to use x:bind from windows 10 and use the Delegate Command found in Template 10. The code can be encapsulated into a control, but because of time etc., I have left that up to the next user of this control. 
 
 <p>
 
